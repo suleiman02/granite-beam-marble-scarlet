@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bassa Nge — English translator",
+      "hasCanvas": false,
+      "bodyTextLen": 1038,
+      "bodyTextHash": "46618eb5c7e874caa3603dbc1a945ce18ca31dfafdc0dc023926c0c912b35b51",
+      "bodyTextPrefix": "KOGI STATE · NUPE-TAKO Bassa Nge English and the language of the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bassa Nge — English translator",
+      "hasCanvas": false,
+      "bodyTextLen": 1038,
+      "bodyTextHash": "46618eb5c7e874caa3603dbc1a945ce18ca31dfafdc0dc023926c0c912b35b51",
+      "bodyTextPrefix": "KOGI STATE · NUPE-TAKO Bassa Nge English and the language of the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
